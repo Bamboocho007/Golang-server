@@ -3,7 +3,7 @@ package db
 import (
 	"errors"
 	"log"
-	"vasya_project/models"
+	"vasya_project/pkg/models"
 )
 
 func GetUserById(dbConnection string, userId string) (user models.User, error error) {

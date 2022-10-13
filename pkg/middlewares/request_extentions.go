@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"vasya_project/utils"
+	"vasya_project/pkg/utils"
 
 	"github.com/gin-gonic/gin"
 )

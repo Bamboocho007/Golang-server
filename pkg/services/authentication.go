@@ -2,10 +2,10 @@ package services
 
 import (
 	"errors"
-	"vasya_project/db"
-	"vasya_project/dtos"
-	"vasya_project/helpers"
-	"vasya_project/utils"
+	"vasya_project/pkg/db"
+	"vasya_project/pkg/dtos"
+	"vasya_project/pkg/helpers"
+	"vasya_project/pkg/utils"
 
 	"github.com/gin-gonic/gin"
 )

@@ -2,7 +2,7 @@ package router
 
 import (
 	"net/http"
-	services "vasya_project/services"
+	services "vasya_project/pkg/services"
 
 	"github.com/gin-gonic/gin"
 )

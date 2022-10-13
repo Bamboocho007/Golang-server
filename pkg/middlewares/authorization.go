@@ -4,9 +4,9 @@ import (
 	"errors"
 	"net/http"
 	"strings"
-	helpers "vasya_project/helpers"
-	services "vasya_project/services"
-	"vasya_project/utils"
+	helpers "vasya_project/pkg/helpers"
+	services "vasya_project/pkg/services"
+	"vasya_project/pkg/utils"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"vasya_project/router"
-	"vasya_project/utils"
+	"vasya_project/pkg/router"
+	"vasya_project/pkg/utils"
 )
 
 func main() {

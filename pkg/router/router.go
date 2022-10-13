@@ -1,8 +1,8 @@
 package router
 
 import (
-	middlewares "vasya_project/middlewares"
-	"vasya_project/utils"
+	middlewares "vasya_project/pkg/middlewares"
+	"vasya_project/pkg/utils"
 
 	"github.com/gin-gonic/gin"
 )
